@@ -10,3 +10,4 @@ function odliczanie()
     setTimeout("odliczanie()", 1000);
 }
 
+window.onload = odliczanie;
