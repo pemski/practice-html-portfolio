@@ -115,60 +115,52 @@ body
     padding: 30px;
 }
 
-.yt
+.socialTile
 {
     float: left;
     margin: 10px;
     width: 105px;
     height: 142px;
+}
+
+#yt
+{
     background-color: #d94348;
 }
 
-.yt:hover
+#yt:hover
 {
     background-color: #c83237;
 }
 
-.fb
+#fb
 {
-    float: left;
-    margin: 10px;
-    width: 105px;
-    height: 142px;
     background-color: #4668b3;
 }
 
-.fb:hover
+#fb:hover
 {
     background-color: #3557a2;
 }
 
 
-.gplus
+#gplus
 {
-    float: left;
-    margin: 10px;
-    width: 105px;
-    height: 142px;
     background-color: #d95333;
 }
 
-.gplus:hover
+#gplus:hover
 {
     background-color: #c84222;
 }
 
 
-.twitter
+#twitter
 {
-    float: left;
-    margin: 10px;
-    width: 105px;
-    height: 142px;
     background-color: #3095d3;
 }
 
-.twitter:hover
+#twitter:hover
 {
     background-color: #2084c2;
 }
