@@ -44,62 +44,51 @@ body
     text-align: left;
 }
 
-.tileKimJestem
+.rectHorizontalTile
 {
     float: left;
     margin: 10px;
     width: 230px;
     height: 142px;
-    background-color: #3095d3;
     text-align: center;
 }
 
-.tileKimJestem:hover
+#tileKimJestem
+{
+    background-color: #3095d3;
+}
+
+#tileKimJestem:hover
 {
     background-color: #2084c2;
 }
 
-.tileOferta
+#tileOferta
 {
-    float: left;
-    margin: 10px;
-    width: 230px;
-    height: 142px;
     background-color: #3095d3;
-    text-align: center;
 }
 
-.tileOferta:hover
+#tileOferta:hover
 {
     background-color: #2084c2;
 }
 
-.tileCV
+#tileCV
 {
-    float: left;
-    margin: 10px;
-    width: 230px;
-    height: 142px;
     background-color: #666666;
-    text-align: center;
 }
 
-.tileCV:hover
+#tileCV:hover
 {
     background-color: #555555;
 }
 
-.tileKontakt
+#tileKontakt
 {
-    float: left;
-    margin: 10px;
-    width: 230px;
-    height: 142px;
     background-color: #93c748;
-    text-align: center;
 }
 
-.tileKontakt:hover
+#tileKontakt:hover
 {
     background-color: #82b637;
 }
